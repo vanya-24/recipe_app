@@ -61,12 +61,12 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
     # example:
-  fonts:
-      - family: Pacifico
-        fonts:
-          - asset: assets/Pacifico-Regular.ttf
-          - asset: assets/SourceSansPro-Regular.ttf
-            weight: 700
+#  fonts:
+#      - family: Pacifico
+#        fonts:
+#          - asset: assets/Pacifico-Regular.ttf
+#          - asset: assets/SourceSansPro-Regular.ttf
+#            weight: 700
 
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
